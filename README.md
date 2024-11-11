@@ -4,8 +4,6 @@
 <summary>🔥 About</summary>
 <br>
 
-- 🌱 I’m currently learning **Python**
-
 - 🔭 Passionate about _QA Automation_ - [**Cypress**]() / [**Postman**]() / [**Chai.js**]()
 
 - ⚡ "It always seems impossible until it's done." - Nelson Mandela
